@@ -41,7 +41,10 @@ class Lecture(object):
     def __str__(self) -> str:
         return f"{self.__lecture_name.name} {self.__grade} {self.__status}"
 
+    #Enums cannot be innerclass / python doesn't support inner class ??
+    '''
     class LectureEnum(Enum):
         MATH = 1
         PHYSIC = 2
         LINEAR_ALGEBRA = 3
+    '''
