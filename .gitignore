@@ -1,0 +1,7 @@
+/venv/
+
+#Ignore text files
+*.xlsx
+*.csv
+*.txt
+
