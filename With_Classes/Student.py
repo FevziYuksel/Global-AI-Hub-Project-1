@@ -30,7 +30,7 @@ class Student(object):
     def lecture(self) -> list[Any]:
         return self.__lecture
 
-    @lecture.setter  # setter //Not sure if it works ?
+    @lecture.setter  # setter //Not sure whether it works ?
     def lecture(self, lecture):
         self.__lecture = lecture
 
