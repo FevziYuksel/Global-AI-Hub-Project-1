@@ -14,6 +14,7 @@ Kendinize bir ders belirleyiniz. (Matematik,Fizik, Lineer Cebir vb.) Not aralı�
 * Grade : Gerekli fonksiyonların tutulduğu standard py dosyası.
 * Main : Kullanıcı tarafından kolayca ulaşılması için ayrıca ayrılmış kısım.
 
+
 ##  Uygulamanın akışı
 
 Kullanıcının verdiği öğrenci listesini okur.
@@ -31,5 +32,23 @@ Pandas yardımıyla oluşturalacak excel dosyası için Sütun değerli listesi 
 
 create_pandas_dataframe fonksiyonu sayesinde excel dosyası elde edilir.
  ![image](https://user-images.githubusercontent.com/93267352/180608297-234e48c0-9bd6-4ab1-8b9a-35783a015c4d.png)
+
+
+## Kullanılan paketler/Kütüphaneler
+
+* Pandas
+* pythonlangutil
+* metaclass
+* openpyxl
+* enum
+* typing
+
+## Kullanılan kaynaklar
+* https://globalaihub.com/courses/introduction-to-python/
+* https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/
+* StackOverFlow
+* https://www.geeksforgeeks.org/python-programming-language/?ref=lbp
+* https://docs.python.org/3/
+* https://pandas.pydata.org/
 
 
