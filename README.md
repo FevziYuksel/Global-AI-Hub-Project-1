@@ -15,6 +15,7 @@
 ![image](https://user-images.githubusercontent.com/93267352/180608235-f76cda1e-7905-4401-aef7-0b114728fa93.png)
 
 * Kullanıcı yazılacak dosyanın adını verir.
+* 
 ![image](https://user-images.githubusercontent.com/93267352/180608254-73127ec1-1ec7-44c0-984e-4f173cebb23b.png)
 
 * grade_students fonksyonuna gerekli değerler girilir : öğrenci listesi , dosya yazma modu , encoding/harf modu
