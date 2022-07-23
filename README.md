@@ -46,7 +46,7 @@ create_pandas_dataframe fonksiyonu sayesinde excel dosyası elde edilir.
 ## Kullanılan kaynaklar
 * https://globalaihub.com/courses/introduction-to-python/
 * https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/
-* StackOverFlow
+* [StackOverFlow](https://stackoverflow.com/)
 * https://www.geeksforgeeks.org/python-programming-language/?ref=lbp
 * https://docs.python.org/3/
 * https://pandas.pydata.org/
